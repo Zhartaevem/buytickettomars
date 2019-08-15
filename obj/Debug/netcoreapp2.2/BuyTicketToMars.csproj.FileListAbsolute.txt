@@ -27,3 +27,4 @@ F:\Projects\buytickettomars\BuyTicketToMars\obj\Debug\netcoreapp2.2\BuyTicketToM
 F:\Projects\buytickettomars\BuyTicketToMars\obj\Debug\netcoreapp2.2\BuyTicketToMars.dll
 F:\Projects\buytickettomars\BuyTicketToMars\obj\Debug\netcoreapp2.2\BuyTicketToMars.pdb
 F:\Projects\buytickettomars\BuyTicketToMars\obj\Debug\netcoreapp2.2\BuyTicketToMars.csproj.CopyComplete
+F:\Projects\buytickettomars\BuyTicketToMars\obj\Debug\netcoreapp2.2\BuyTicketToMars.csprojAssemblyReference.cache

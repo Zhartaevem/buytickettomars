@@ -4,13 +4,15 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
 	<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
 	<IsTransformWebConfigDisabled>true</IsTransformWebConfigDisabled>
-	<StartupObject></StartupObject>
+	<StartupObject>BuyTicketToMars.Program</StartupObject>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <PlatformTarget>AnyCPU</PlatformTarget>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
     <Prefer32Bit>false</Prefer32Bit>
+    <Optimize>true</Optimize>
   </PropertyGroup>
 
   <ItemGroup>
